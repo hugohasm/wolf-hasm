@@ -1,0 +1,19 @@
+{
+  "name": "wolf-hasm",
+  "version": "1.0.0",
+  "description": "Mi primer web app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugohasm/wolf-hasm.git"
+  },
+  "author": "Hugo A. Segoviano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hugohasm/wolf-hasm/issues"
+  },
+  "homepage": "https://github.com/hugohasm/wolf-hasm#readme"
+}
