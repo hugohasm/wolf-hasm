@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hugohasm/wolf-hasm/issues"
   },
-  "homepage": "https://github.com/hugohasm/wolf-hasm#readme"
+  "homepage": "https://github.com/hugohasm/wolf-hasm#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
