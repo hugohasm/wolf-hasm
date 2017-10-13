@@ -1,0 +1,6 @@
+//Conexion a MONGO
+mongodb://wolf_usr:123456@ds157539.mlab.com:57539/wolf
+
+//LINK DE APLICACION
+https://wolf-hasm.herokuapp.com/
+
